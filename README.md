@@ -1,1 +1,1 @@
-# image-slider-code-for-mobile
+# IMAGE SLIDER CODE FOR MOBILE
