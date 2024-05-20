@@ -1,0 +1,1 @@
+# image-slider-code-for-mobile
